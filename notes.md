@@ -162,7 +162,11 @@ flip' f y x = f x y
 ```
 
 __Maps and filters__  
+Similar to list comprehensions but more readable.  
+Filter several times by chaining, or &&:ing predicates  
+`takeWhile` f list  
 
+__Lambdas__  
 
 
 # 7. Modules
